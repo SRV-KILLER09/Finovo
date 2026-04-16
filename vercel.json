@@ -1,0 +1,12 @@
+{
+  "build": {
+    "env": {
+      "GENKIT_ENV": "production"
+    }
+  },
+  "functions": {
+    "app/api/genkit/**": {
+      "memory": 1024
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Student managing finances on a laptop",
+      "imageUrl": "https://images.unsplash.com/photo-1686360808775-55183062324a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmaW5hbmNlJTIwc3R1ZGVudHxlbnwwfHx8fDE3NTg3MTY5NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "finance student"
+    },
+    {
+      "id": "budgeting",
+      "description": "A person creating a budget",
+      "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxidWRnZXQlMjBwbGFubmluZ3xlbnwwfHx8fDE3NTg3MTY5NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "budget planning"
+    },
+    {
+      "id": "scholarships",
+      "description": "Graduation caps in the air",
+      "imageUrl": "https://images.unsplash.com/photo-1646107925382-fa80ac081f73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z3JhZHVhdGlvbiUyMHN1Y2Nlc3N8ZW58MHx8fHwxNzU4NzE2OTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graduation success"
+    },
+    {
+      "id": "reports",
+      "description": "Charts and graphs on a screen",
+      "imageUrl": "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkYXRhJTIwcmVwb3J0fGVufDB8fHx8MTc1ODY0NjIzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data report"
+    },
+    {
+      "id": "rewards",
+      "description": "A trophy or medal",
+      "imageUrl": "https://images.unsplash.com/photo-1681393572406-352e0b1b5b8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhd2FyZCUyMHRyb3BoeXxlbnwwfHx8fDE3NTg3MDg3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "award trophy"
+    },
+    {
+      "id": "avatar1",
+      "description": "User avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg2OTE2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar2",
+      "description": "User avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1599566147214-ce487862ea4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc1ODY5NTM3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar3",
+      "description": "User avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzU4NjU1Mzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "avatar4",
+      "description": "User avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg3MDg5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Main user avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1484863137850-59afcfe05386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc1ODY5Nzk3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "dev1",
+      "description": "Developer Vardaan Saxena",
+      "imageUrl": "https://images.unsplash.com/photo-1724654814378-108c93f5fa54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYWxlJTIwZGV2ZWxvcGVyfGVufDB8fHx8MTc1ODc3MjgzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male developer"
+    },
+    {
+      "id": "dev2",
+      "description": "Developer Dev Goti",
+      "imageUrl": "https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYWxlJTIwcHJvZ3JhbW1lcnxlbnwwfHx8fDE3NTg4MDEzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male programmer"
+    },
+    {
+      "id": "dev3",
+      "description": "Developer Siddharth Singh",
+      "imageUrl": "https://images.unsplash.com/photo-1676378388952-b2a83011becf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYWxlJTIwZGVzaWduZXJ8ZW58MHx8fHwxNzU4ODAxMzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male designer"
+    },
+    {
+      "id": "dev4",
+      "description": "Developer Mihir Panchal",
+      "imageUrl": "https://images.unsplash.com/photo-1729109976830-e43699abd9b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYWxlJTIwZW5naW5lZXJ8ZW58MHx8fHwxNzU4NjkxMzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male engineer"
+    }
+  ]
+}
